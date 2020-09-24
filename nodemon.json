@@ -1,9 +1,11 @@
 {
     "env": {
         "DB_USER" : "sam",
-        "DB_PASSWORD" : "hrIRzUUMclUxa6xV",
+        "DB_PASSWORD" : "k1lB0SpGQejLGefF",
         "DB_NAME" : "usertour",
         "GOOGLE_API_KEY" : "AIzaSyDc96DWQR-h7_wN38wtawgadxUEhW4aXqg",
         "JWT_KEY" : "supersecret_dont_share"
     }
 }
+
+
